@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  height: 70px;
+  width: 375px;
+  background: #333;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 355px;
+  padding: 10px;
+  background-color: lightblue;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.todayP {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.today ul {
+  list-style-type: none;
+  border: 2px pink dashed;
+}
+.twodays {
+  list-style-type: none;
+}
